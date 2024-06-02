@@ -1,4 +1,4 @@
-	# jira Exporter Workflow
+# jira Exporter Workflow
 # This workflow responsible for running jira exporter.
 # integration.config.jiraHost: The URL of your Jira, for example: https://example.atlassian.net
 # integration.secrets.atlassianUserEmail: The email of the user used to query Jira
