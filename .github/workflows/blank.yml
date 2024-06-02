@@ -21,6 +21,6 @@ jobs:
                 port_client_id: "imDYobGss2xTm09QpxrxLsl5FKkCrhad"
                 port_client_secret: "jCHM2oO356tYpX3MZC8Gp3dsIwTy2N8uQrag1Q1e4g1exnPHXG6CfcNAt5A4RcEq"
                 config: |
-                    jiraHost: "samuelshorun.atlassian.net"
+                    jiraHost: "https://samuelshorun.atlassian.net"
                     atlassianUserEmail: ${{ secrets.atlassianUserEmail }}
                     atlassianUserToken: ${{ secrets.atlassianUserToken }}
